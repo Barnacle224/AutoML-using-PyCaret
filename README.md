@@ -1,2 +1,2 @@
 # PyCaret-Tutorial
-This is the .ipynb file for my blog "PyCaret: The low code Machine Learning library" 
+These are the .ipynb files for my series of blogs on "PyCaret: The low code Machine Learning library" 
